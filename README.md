@@ -1,6 +1,6 @@
 ### Hi there, I'm Bram 👋
 
-## I'm a Computer Science student and self taught developer !!
+## self-taught front end developer !!
 
 - ⚡ When you think you are too late to start on tech.. I've been there man
 
