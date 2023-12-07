@@ -1,8 +1,10 @@
-### Hi there, I'm Bram 👋
+### Hi there, I'm Bram 👋 <br/> a self-taught frontend explorer. 
 
-## self-taught front end developer !!
+## recently completed the main quest in "computer science" land 🧙🏾‍♂️.
+Enjoying every bit of the main and the side quests, and gain the exp during the journey, day and night. 
 
-- ⚡ When you think you are too late to start on tech.. I've been there man
+
+- ⚡ Just scratched very little of the web dev world.
 
 <br />
 
